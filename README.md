@@ -1,7 +1,3 @@
-![Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-d78feb16-f662-4960-adc6-af05b604e960.jpg)
-
----
-
 # SQL Documentation - Curso de SQL
 
 ## Visão Geral
@@ -82,3 +78,6 @@ Contribuições são bem-vindas, caso deseje adicionar mais informações que ac
 
 Aproveite a documentação e bons estudos!
 
+--- 
+
+![Certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-d78feb16-f662-4960-adc6-af05b604e960.jpg)
